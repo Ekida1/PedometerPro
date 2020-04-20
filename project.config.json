@@ -1,0 +1,100 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": false,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"enhance": true
+	},
+	"miniprogramRoot": "dist/",
+	"compileType": "miniprogram",
+	"appid": "wxa067c0cfeee90a29",
+	"projectname": "PedometerPro",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/room/index",
+					"pathName": "pages/room/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/receipt/index",
+					"pathName": "pages/receipt/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "pages/home/index",
+					"pathName": "pages/home/index",
+					"query": "scene=a9372f34936b0cc1",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/buy_food/index",
+					"pathName": "pages/buy_food/index",
+					"query": "hotel_code=a9372f34936b0cc1",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/order_info/index",
+					"pathName": "pages/order_info/index",
+					"query": "order_no = JMDS1800001191104000049",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/pay_result/index",
+					"pathName": "pages/pay_result/index",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}

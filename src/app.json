@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "path": "pages/preview/index",
+      "config": {
+        "navigationBarTitleText": "欢迎"
+      }
+    },
+    {
+      "path": "pages/home/index",
+      "config": {
+        "navigationBarTitleText": "首页"
+      }
+    }
+  ],
+  "window": {
+    "onReachBottomDistance": 150,
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "van-toast": "/vant-weapp/dist/toast/index"
+  }
+}
