@@ -5056,9 +5056,9 @@ path-key@^2.0.0:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npm.taobao.org/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -7234,10 +7234,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vant-weapp@^0.5.0:
-  version "0.5.20"
-  resolved "https://registry.npm.taobao.org/vant-weapp/download/vant-weapp-0.5.20.tgz#84b9c3e841eac3ccf422ccf916429f150177978d"
-  integrity sha1-hLnD6EHqw8z0Isz5FkKfFQF3l40=
+vant-weapp@^1.0.0-beta.4:
+  version "1.0.0-beta.4"
+  resolved "https://registry.yarnpkg.com/vant-weapp/-/vant-weapp-1.0.0-beta.4.tgz#32914f5c7f5de1a7a70582c060abe4b1f9f804ba"
+  integrity sha512-oZZ4MUgrgMMeB40cJkREmPM2Ad/ZmJaqAn4/xP1jjpXIQi/ds0ir4ige0nwIXL+3uUD4ARnq9tHy4Ds0K1iwFg==
 
 vary@~1.1.2:
   version "1.1.2"
