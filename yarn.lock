@@ -6455,10 +6455,10 @@ shebang-regex@^1.0.0:
   resolved "https://registry.npm.taobao.org/shebang-regex/download/shebang-regex-1.0.0.tgz#da42f49740c0b42db2ca9728571cb190c98efea3"
   integrity sha1-2kL0l0DAtC2yypcoVxyxkMmO/qM=
 
-shelljs@^0.8.0:
-  version "0.8.3"
-  resolved "https://registry.npm.taobao.org/shelljs/download/shelljs-0.8.3.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fshelljs%2Fdownload%2Fshelljs-0.8.3.tgz#a7f3319520ebf09ee81275b2368adb286659b097"
-  integrity sha1-p/MxlSDr8J7oEnWyNorbKGZZsJc=
+shelljs@^0.8.5:
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.8.5.tgz#de055408d8361bed66c669d2f000538ced8ee20c"
+  integrity sha512-TiwcRcrkhHvbrZbnRcFYMLl30Dfov3HKqzp5tO5b4pt6G/SezKcYhmDg15zXVBswHmctSAQKznqNW2LO5tTDow==
   dependencies:
     glob "^7.0.0"
     interpret "^1.0.0"
@@ -7234,10 +7234,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vant-weapp@^0.5.0:
-  version "0.5.20"
-  resolved "https://registry.npm.taobao.org/vant-weapp/download/vant-weapp-0.5.20.tgz#84b9c3e841eac3ccf422ccf916429f150177978d"
-  integrity sha1-hLnD6EHqw8z0Isz5FkKfFQF3l40=
+vant-weapp@^1.0.0-beta.4:
+  version "1.0.0-beta.4"
+  resolved "https://registry.yarnpkg.com/vant-weapp/-/vant-weapp-1.0.0-beta.4.tgz#32914f5c7f5de1a7a70582c060abe4b1f9f804ba"
+  integrity sha512-oZZ4MUgrgMMeB40cJkREmPM2Ad/ZmJaqAn4/xP1jjpXIQi/ds0ir4ige0nwIXL+3uUD4ARnq9tHy4Ds0K1iwFg==
 
 vary@~1.1.2:
   version "1.1.2"
