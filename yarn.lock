@@ -2245,9 +2245,9 @@ decimal.js@^10.2.0:
   integrity sha1-OUZhE6ngNhEdAvgkibX9awte0jE=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.0"
@@ -7234,10 +7234,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vant-weapp@^0.5.0:
-  version "0.5.20"
-  resolved "https://registry.npm.taobao.org/vant-weapp/download/vant-weapp-0.5.20.tgz#84b9c3e841eac3ccf422ccf916429f150177978d"
-  integrity sha1-hLnD6EHqw8z0Isz5FkKfFQF3l40=
+vant-weapp@^1.0.0-beta.4:
+  version "1.0.0-beta.4"
+  resolved "https://registry.yarnpkg.com/vant-weapp/-/vant-weapp-1.0.0-beta.4.tgz#32914f5c7f5de1a7a70582c060abe4b1f9f804ba"
+  integrity sha512-oZZ4MUgrgMMeB40cJkREmPM2Ad/ZmJaqAn4/xP1jjpXIQi/ds0ir4ige0nwIXL+3uUD4ARnq9tHy4Ds0K1iwFg==
 
 vary@~1.1.2:
   version "1.1.2"
