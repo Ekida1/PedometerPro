@@ -5906,9 +5906,9 @@ qs@6.7.0:
   integrity sha1-QdwaAV49WB8WIXdr4xr7KHapsbw=
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.npm.taobao.org/qs/download/qs-6.5.2.tgz?cache=0&sync_timestamp=1566009952956&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fqs%2Fdownload%2Fqs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha1-yzroBuh0BERYTvFUzo7pjUA/PjY=
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -7234,10 +7234,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vant-weapp@^0.5.0:
-  version "0.5.20"
-  resolved "https://registry.npm.taobao.org/vant-weapp/download/vant-weapp-0.5.20.tgz#84b9c3e841eac3ccf422ccf916429f150177978d"
-  integrity sha1-hLnD6EHqw8z0Isz5FkKfFQF3l40=
+vant-weapp@^1.0.0-beta.4:
+  version "1.0.0-beta.4"
+  resolved "https://registry.yarnpkg.com/vant-weapp/-/vant-weapp-1.0.0-beta.4.tgz#32914f5c7f5de1a7a70582c060abe4b1f9f804ba"
+  integrity sha512-oZZ4MUgrgMMeB40cJkREmPM2Ad/ZmJaqAn4/xP1jjpXIQi/ds0ir4ige0nwIXL+3uUD4ARnq9tHy4Ds0K1iwFg==
 
 vary@~1.1.2:
   version "1.1.2"
